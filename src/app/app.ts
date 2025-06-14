@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'belles-gaming-file-editor';
+  protected title = 'gaming-file-editor';
 }
